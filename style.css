@@ -1,0 +1,23 @@
+.jumbotron {
+    height: 400px;
+    background-image: url(https://unsplash.com/photos/F2qh3yjz6Jk);
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+a.btn {
+    margin-top: 10px;
+}
+
+.caption a.btn {
+    margin-top: 0;
+}
+
+.footer {
+    height: 50px;
+    color: #070707;
+    text-align: center;
+    background-color: #ffffff;
+    padding-top: 15px;
+}
+
